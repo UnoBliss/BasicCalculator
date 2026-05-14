@@ -3,7 +3,7 @@
 A lightweight, responsive Calculator built with HTML, CSS, and JavaScript. This project is a **Progressive Web App (PWA)**, meaning you can install it on your mobile device or desktop and use it offline.
 
 ## 🚀 Live Demo
-**[Click here to open the Calculator](https://UnoBliss.github.io/Calculator/)**
+**[Click here to open the Calculator](https://UnoBliss.github.io/BasicCalculator/)**
 
 ## ✨ Features
 *   **Fully Responsive:** Works on desktop, tablet, and mobile.
@@ -12,7 +12,7 @@ A lightweight, responsive Calculator built with HTML, CSS, and JavaScript. This 
 *   **Clean UI:** Minimalist dark mode design.
 
 ## 🛠️ Installation (As a PWA)
-1. Open the [Live Demo](https://UnoBliss.github.io/Calculator/) in your browser.
+1. Open the [Live Demo](https://UnoBliss.github.io/BasicCalculator/) in your browser.
 2. **On Mobile (Chrome/iOS):** Tap "Add to Home Screen" or the Share icon -> "Add to Home Screen".
 3. **On Desktop:** Click the "Install" icon in the address bar.
 
