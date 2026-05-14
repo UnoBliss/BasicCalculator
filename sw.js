@@ -1,4 +1,4 @@
-const CACHE_NAME = 'calc-v1';
+const CACHE_NAME = 'calc-v2'; // Incrementing the version triggers an update
 const assets = [
   './', 
   './index.html', 
